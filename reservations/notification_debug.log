@@ -1,0 +1,58 @@
+[2026-03-29 08:06:10] Target: 09123456789 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 10:54:03] Target: 9987654321 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 10:56:51] Target: 9987654321 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 10:58:55] Target: 9987654321 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:08:12] Target: 966666666 | Status: APPROVED | n8n Response Code: 404
+[2026-03-29 11:09:45] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:10:39] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:18:33] Target: 966666666 | Status: APPROVED | n8n Response Code: 404
+[2026-03-29 11:18:59] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:37:43] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:41:46] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 11:42:39] Target: 966666666 | Status: REJECTED | n8n Response Code: 200
+[2026-03-29 11:50:18] Target: 966666666 | Status: REJECTED | n8n Response Code: 0
+[2026-03-29 11:51:22] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 12:36:39] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-29 12:45:40] Target: 966666666 | Status: APPROVED | n8n Response Code: 0
+[2026-03-29 12:47:16] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-30 02:18:14] Target: 966666666 | Status: APPROVED | n8n Response Code: 0
+[2026-03-30 02:18:54] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-30 04:16:23] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-30 12:01:40] Target: 966666666 | Status: APPROVED | n8n Response Code: 0
+[2026-03-30 12:02:16] Target: 966666666 | Status: APPROVED | n8n Response Code: 200
+[2026-03-30 12:10:15] ID: 26684108167858056 | Status: APPROVED | n8n Code: 0
+[2026-03-30 12:10:41] ID: 26684108167858056 | Status: APPROVED | n8n Code: 0
+[2026-03-30 12:11:49] ID: 26684108167858056 | Status: APPROVED | n8n Code: 0
+[2026-03-30 12:18:31] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 12:51:40] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 12:52:33] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 12:53:13] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 12:54:18] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 13:01:03] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 13:07:59] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 13:26:24] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 13:26:44] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 13:27:06] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 13:32:38] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 13:33:13] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 17:00:58] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 17:13:58] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 17:14:22] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 17:27:48] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 17:29:38] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 18:26:54] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 18:27:20] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 18:35:10] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 18:35:29] ID: 26684108167858056 | Status: APPROVED | cURL Error: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to reuseable-paulita-reductional.ngrok-free.dev:443  (Code: 35)
+[2026-03-30 18:36:16] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-30 18:46:57] ID: 26684108167858056 | Status: APPROVED | n8n Code: 200
+[2026-03-31 03:30:53] ID: 20 | Status: APPROVED | Code: 200
+[2026-03-31 04:00:43] ID: 22 | Status: APPROVED | Code: 200
+[2026-03-31 09:00:54] ID: 23 | Status: APPROVED | Code: 200
+[2026-03-31 10:15:20] ID: 24 | Status: APPROVED | Code: 200
+[2026-03-31 10:18:39] ID: 24 | Status: REJECTED | Code: 200
+[2026-04-01 09:22:03] ID: 34 | Status: APPROVED | Code: 200
+[2026-04-03 15:04:45] ID: 2 | Status: REJECTED | Code: 200
+[2026-04-03 15:07:28] ID: 3 | Status: APPROVED | Code: 200
+[2026-04-03 21:29:53] ID: 4 | Status: APPROVED | Code: 200
+[2026-04-03 21:43:18] ID: 6 | Status: APPROVED | Code: 200
